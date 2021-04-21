@@ -1,4 +1,5 @@
-👋 Hi, I’m @KevOrtega, a front-end developer specialized in React with a year of personal project's experiences and web development learning.
+### 👋 Hi, I’m @KevOrtega
+I'm a front-end developer specialized in React with a year of personal project's experiences and web development learning.
 👀 I’m interested in software development and tech.
 
 ### 💻 Skills
