@@ -4,15 +4,17 @@ I'm a front-end developer specialized in React with two years of personal projec
 👀 I’m interested in software development and tech.
 
 ### 💻 Skills
-- Web design: HTML5, CSS3 & adobe XD
-- Web development: JavaScript, ReactJS, TypeScript, GitHub, Git & npm
+- Web design: HTML5, CSS3, Adobe XD, Figma & Responsive design.
+- Frontend development: JavaScript, ReactJS, styled-components, proptypes & TypeScript.
+- Backend development: NodeJS, ExpressJS, mongoose, mongoDB.
+- Git & NPM
 
-### 🚀 Proyects
+### 🚀 Projects
 - [Social media for emprises](https://github.com/KevOrtega/Trademark-front)
 - [Tiendamia ecommerce responsive fixed](https://github.com/KevOrtega/Tiendamia)
 - [Tips to learn ReactJS](https://github.com/KevOrtega/React-Tips)
   
 ### 📫 Contact
+[Platzi](https://platzi.com/p/kevortega/)
 [Behance](https://www.behance.net/kevinortega4)
 [LinkedIn](https://www.linkedin.com/in/kevin-ortega-531118200/)
-[Twitter](https://twitter.com/KevOrtega2)
