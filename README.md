@@ -10,6 +10,8 @@ I'm a front-end developer specialized in React with two years of personal projec
 - Git & NPM
 
 ### 🚀 Projects
+- [web application for doctors](https://github.com/KevOrtega/HealthMatters)
+- [web page that displays pokemons](https://github.com/KevOrtega/pi-pokemon-front)
 - [Social media for emprises](https://github.com/KevOrtega/Trademark-front)
 - [Tiendamia ecommerce responsive fixed](https://github.com/KevOrtega/Tiendamia)
 - [Tips to learn ReactJS](https://github.com/KevOrtega/React-Tips)
