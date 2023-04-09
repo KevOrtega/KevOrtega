@@ -19,4 +19,4 @@ I'm a front-end developer specialized in React with two years of personal projec
 ### 📫 Contact
 [Platzi](https://platzi.com/p/kevortega/)
 [Behance](https://www.behance.net/kevinortega4)
-[LinkedIn](https://www.linkedin.com/in/kevin-ortega-531118200/)
+[LinkedIn](https://www.linkedin.com/in/kevin-ortega/)
